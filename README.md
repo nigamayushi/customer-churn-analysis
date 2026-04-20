@@ -33,4 +33,7 @@ As a data scientist at AlphaCom, you are tasked with developing a predictive mod
 - Insights can help businesses improve customer engagement and reduce churn rates
 
 ## Project Files
-- `customer_churn_analysis.ipynb` → Complete analysis and visualization
+- 'customer_churn_analysis.ipynb` → Complete analysis and visualization
+
+- ## 📄 Business Report
+[View Full Report](./Customer_Churn_Business_Report.pdf)
